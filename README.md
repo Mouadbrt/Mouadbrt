@@ -3,7 +3,6 @@
 🧠 **Front-End Developer** | **BTS Web Development Student**  
 🌌 **Creating responsive & user-friendly web experiences**  
 🎥 **Sharing code & design tutorials** on [Instagram](#)  
-🪻 **Download my projects and resources** on [Gumroad](#)  
 
 📫 **Let’s Connect!**  
 [LinkedIn](#) | [Portfolio](#) | [Email](#)  
