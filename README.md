@@ -2,7 +2,7 @@
 
 🧠 **Front-End Developer** | **BTS Web Development Student**  
 🌌 **Creating responsive & user-friendly web experiences**  
-🎥 **Sharing code & design tutorials** on [Instagram]((https://www.instagram.com/moua.ddcode/))  
+🎥 **Sharing code & design tutorials** on [Instagram](https://www.instagram.com/moua.ddcode/)  
 
 📫 **Let’s Connect!**  
 [LinkedIn](https://www.linkedin.com/in/mouad-bartal-65b962358/) | [Portfolio](#) | [Email](mailto:mouaddcode@gmail.com)  
