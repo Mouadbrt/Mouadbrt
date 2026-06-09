@@ -1,6 +1,6 @@
 # 👋 Hey, I'm MOUAD BARTAL  
 
-🧠 **Front-End Developer** | **BTS Web Development Student**  
+🧠 **Full Stack Developer** | **BTS Web Development Student**  
 🌌 **Creating responsive & user-friendly web experiences**  
 🎥 **Sharing code & design tutorials** on [Instagram](https://www.instagram.com/moua.ddcode/)  
 
